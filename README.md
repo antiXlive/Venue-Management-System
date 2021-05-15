@@ -13,6 +13,45 @@
 This module is built upon the QLO Apps to facilitate Venue Management Services at ease.
 </h5>
 
+# Screenshots
+
+<img
+    alt="Capture 1"
+    src="./readme_assets/h1.webp"
+/>
+<img
+    alt="Capture 2"
+    src="./readme_assets/v1.webp"
+/>
+<img
+    alt="Capture 3"
+    src="./readme_assets/f1.webp"
+/>
+<img
+    alt="Capture 3"
+    src="./readme_assets/s1.webp"
+/>
+<img
+    alt="Capture 3"
+    src="./readme_assets/admin1.webp"
+/>
+<img
+    alt="Capture 3"
+    src="./readme_assets/admin2.webp"
+/>
+<img
+    alt="Capture 3"
+    src="./readme_assets/admin3.webp"
+/>
+<img
+    alt="Capture 3"
+    src="./readme_assets/admin4.webp"
+/>
+<img
+    alt="Capture 3"
+    src="./readme_assets/admin5.webp"
+/>
+
 # Installation
 <p>1. Firstly, you need to place the module folder in the modules directory of the QloApps.</p>
 <p align='center'>cp module /qlo/modules</p>
